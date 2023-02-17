@@ -1,0 +1,2 @@
+# LifeStyleApp
+Android LifeStyle Application
